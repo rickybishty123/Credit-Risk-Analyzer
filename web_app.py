@@ -84,7 +84,7 @@ def make_prediction(input_data):
 # Implement the web application using Streamlit
 import streamlit as st
 
-st.title("Loan Prediction Web Application")
+st.title("Credit Risk Analyzer")
 
 # Sidebar for user input
 st.sidebar.header("User Input Parameters")
